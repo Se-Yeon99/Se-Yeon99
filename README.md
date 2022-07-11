@@ -1,5 +1,5 @@
 - 👋 안녕하세요 저는 황세연입니다.
-- 👀 웹 프론트엔드 개발을 합니다. 
+- 👀 저는 웹 개발을 합니다. 
 <!-- - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
