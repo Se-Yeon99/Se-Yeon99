@@ -1,7 +1,8 @@
-<h1>
+<h1>Hwang Se Yeon </h1>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Se-Yeon99)](https://github.com/Se-Yeon99/github-readme-stats)
   
+  <h2> 🛠 Stacks 🛠</h2>
 <div>
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
